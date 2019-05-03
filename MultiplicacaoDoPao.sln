@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicacaoDoPao", "MultiplicacaoDoPao\MultiplicacaoDoPao.csproj", "{B62588B7-3513-46C1-8ED8-2BCFE201585E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62588B7-3513-46C1-8ED8-2BCFE201585E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62588B7-3513-46C1-8ED8-2BCFE201585E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62588B7-3513-46C1-8ED8-2BCFE201585E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62588B7-3513-46C1-8ED8-2BCFE201585E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30466C11-CB7C-4F0E-AC86-B0B4A4434BBB}
+	EndGlobalSection
+EndGlobal
